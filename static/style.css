@@ -27,7 +27,7 @@ main {
     text-align: center;
     width: 100%;
     font-size: 2rem;
-    background-color: #0fca00;
+    background-color: green;
     color: var(--color-white);
     height: var(--header-height);
     display: flex;
