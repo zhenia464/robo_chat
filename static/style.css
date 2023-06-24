@@ -1,6 +1,6 @@
 :root {
     /* Нагадайте учням про змінні */
-    --color-primary: #19ed13;
+    --color-primary: #304ffe;
     --color-primary-darker: #0026ca;
     --color-accent: #FF7939;
     --color-accent-darker: #f07136;
@@ -27,7 +27,7 @@ main {
     text-align: center;
     width: 100%;
     font-size: 2rem;
-    background-color: var(--color-primary);
+    background-color: #0fca00;
     color: var(--color-white);
     height: var(--header-height);
     display: flex;
